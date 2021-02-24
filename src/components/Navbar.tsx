@@ -1,6 +1,6 @@
 import React from "react";
 import { AiOutlineMenuFold } from "@react-icons/all-files/Ai/AiOutlineMenuFold";
-import "../style/layout/navbar.scss";
+import "../styles/layout/navbar.scss";
 
 interface Props {}
 const Navbar = (props: Props): JSX.Element => {
